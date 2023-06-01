@@ -1,0 +1,7 @@
+# git command line used
+# git checkout -b nebranc-name  > to create a new branch
+# git checkout --delete branch name > to delete a branch
+# git add . > to add a file to the git repo
+# git push --set-upstream orining branch name > to push in a new brnach
+# git git clone https://{token keey}@github.com/{username}/{repo-name}.git > to clone a file
+# git commit > to add a file; it will significantly show yo the file you have added
