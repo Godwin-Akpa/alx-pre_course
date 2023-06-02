@@ -1,0 +1,98 @@
+[33mcommit b96406418a00cfad18a5520206ffef53bef16949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 14:52:40 2023 -0700
+
+    ~
+
+[33mcommit 3fd01f1de3e1fd7b34d9e8e0e750645c6a19a39e[m
+Merge: c50df32 dfbd000
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 14:39:34 2023 -0700
+
+    Merge branch 'update_script'
+
+[33mcommit c50df329c8efd6cfe1a7dfe1fe501bfc97de9af5[m
+Merge: f8b73b4 4497bc2
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 08:42:05 2023 -0700
+
+    How to be up to date
+
+[33mcommit f8b73b4e4ab14aa77c5c37087c6607d08adf6b26[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 08:40:44 2023 -0700
+
+    How to be up to date
+
+[33mcommit 4497bc23229c94280b6a39e5be04180c6dcd5db3[m
+Author: Godwin-Akpa <135206747+Godwin-Akpa@users.noreply.github.com>
+Date:   Thu Jun 1 16:40:33 2023 +0100
+
+    Delete up_to_date
+
+[33mcommit 59127aac53f0a624f02e27dbf7b9360fe00ca1a4[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 08:31:51 2023 -0700
+
+    How to be up to date in git
+
+[33mcommit 227151ae6d910ee549d54e593d8a8eaa893601f3[m
+Author: Godwin-Akpa <135206747+Godwin-Akpa@users.noreply.github.com>
+Date:   Thu Jun 1 16:21:49 2023 +0100
+
+    Update README.md
+
+[33mcommit 4f77b5f6f3bffd68f60a08ed87985d7273b71a8c[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 08:15:12 2023 -0700
+
+    Hot fix
+
+[33mcommit dfbd000698c0dcc1a04e556f702100b3ad841d21[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 08:07:45 2023 -0700
+
+    My personal work
+
+[33mcommit 090ee5defd225209f20c88a20eeae91b041cb547[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 07:51:43 2023 -0700
+
+    Hot fix
+
+[33mcommit 62720be5200f06ac75cad6eb588278f6472a52b3[m
+Merge: 909c18e 370147d
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 06:07:59 2023 -0700
+
+    Merge branch 'master' of https://github.com/Godwin-Akpa/alx-pre_course
+
+[33mcommit 909c18ee459fd68e129e399285061244f8e20749[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 06:06:34 2023 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 2be4e74506ca0917ca60c52c56169fbb1137c486[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 05:54:17 2023 -0700
+
+    staring to code today, so cool
+
+[33mcommit 370147d3b211488d8bd44c5aa67c85d25afb69d0[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 05:54:17 2023 -0700
+
+    staring to code today, so cool
+
+[33mcommit fd84c335a639020c1eca88168d1bb924209c1041[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 05:40:55 2023 -0700
+
+    my secomd commit
+
+[33mcommit fbc28942dc3d5799c30c5c34645987c71043c786[m
+Author: Godwin-Akpa <godwindevops@gmail.com>
+Date:   Thu Jun 1 04:16:14 2023 -0700
+
+    My first commit
